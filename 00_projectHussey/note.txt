@@ -1,5 +1,1 @@
-game title = feed yuna
 
-main = main
-
-drops = random drop for game upgrades (bigger click)
